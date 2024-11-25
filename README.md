@@ -13,4 +13,3 @@ Repo config setup:
 ## What the configs dont setup
 - Any communication between server and clients
 - Java instalation (**setup assumes some defualt location**)
-- 
